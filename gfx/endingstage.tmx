@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="11" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="earthtiles" tilewidth="8" tileheight="8">
+  <image source="earthtiles.png" width="96" height="80"/>
+ </tileset>
+ <tileset firstgid="121" name="logotiles" tilewidth="8" tileheight="8">
+  <image source="logotiles.png" width="192" height="96"/>
+ </tileset>
+ <layer name="Capa de patrones 3" width="32" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMBAAAAWAAAE=
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="32" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYBxgrMKIXVyZkX5qQFgRjxw91eBzI7XVEBsm9FCDHleDQQ09MK4wQU4jtFZDjHtooQafW+mpZqDCBQCM/gc8
+  </data>
+ </layer>
+ <layer name="Capa de Patrones 1" width="32" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMBAAAAWAAAE=
+  </data>
+ </layer>
+</map>

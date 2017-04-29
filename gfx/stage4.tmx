@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="189" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="stage4tiles" tilewidth="8" tileheight="8">
+  <image source="stage4tiles.png" width="48" height="40"/>
+ </tileset>
+ <tileset firstgid="31" name="cloudtilemap" tilewidth="8" tileheight="8">
+  <image source="cloudtilemap.png" width="64" height="72"/>
+ </tileset>
+ <tileset firstgid="103" name="seatilemap" tilewidth="8" tileheight="8">
+  <image source="seatilemap.png" width="16" height="48"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="32" height="189">
+  <data encoding="base64" compression="zlib">
+   eJztltduFEEQRRdMNNgmGpacc84Zk3POOWMhMv//wFmJK7VK2+x4BTOgvg9Hra2q6empqtu1461Wa7xgvsK3Btfv8KPBten8N43rXzauf9m4/mXj+peN6182rn/ZuP5l4/qXjetfNq5/2bj+ZeP6l43rXzal1/9Dw3yETw2un+FLg+uShmk3vA7BMIzAHJgL8yrYBxLblIrxnbhJMDmxz4cFsBBGYREsrmCfmdgGK8Z34qbDjMSu8wz8OrfOldqVKyFf53umwrQQn9q15uy553rZdc5u59W3tbvsE+OVD+VnFsyuYNc7tKbx7SRncZ8Y7/5rtv/S+oxm6pnWfyjxDSbn/V38cGKPfau4kVb+jkzPrfPpe9Je7xYf7bFv1Seqm34rn/F7Yp71u994nUN9G/Ofs+f6SfGy5+K1KjdLYRkshxVJ3v62va735Oy+fzz/PP/K7T/PP88/zz/fP55/nn8l9p/nn+ef55/vH88/z78S+8/zr+z5txJWwWpYA2thHayHDQX4VQf1i/pSfaC+ibrU81F/itfz8sff8f6N91G8N2L943lz92zcN8YrP/E+0v7xPlV83FfPKT7qNf7WPrE+MR9Rt6pf3Cf9P5fWK+Yp1i/XHzH/8mu/3PO98q9z9nq/8q18yq/9cs8rXn69V37FV/1+5VN+2Seqr371GfM/0eeV736fj/n/1+6v/92/ETbBZtgCW2EbbIcdNfgfwEN4BI/hCTyFZ/C8Bv8LeAmv4DW8gbfwDt7X4N8Ju2A37IG9sA/2w4Ea/AfhEByGI3AUjsFxOFGD/ySMwSk4DWfgLJyD8zX4L8BFuASX4QpchWtwvQb/DbgJt+A23IG7cA/u1+C3/qy/sZb1Z/1Zf9af9Wf9WX/Wn/Vn/Vl/1p/1Z/1Zf9af9Wf9WX/Wn/Vn/f1Z/08l8e3u
+  </data>
+ </layer>
+</map>

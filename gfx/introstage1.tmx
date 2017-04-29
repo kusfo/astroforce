@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="24" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="earthtiles" tilewidth="8" tileheight="8">
+  <image source="earthtiles.png" width="96" height="80"/>
+ </tileset>
+ <tileset firstgid="225" name="logotiles" tilewidth="8" tileheight="8">
+  <image source="logotiles.png" width="192" height="96"/>
+ </tileset>
+ <layer name="Capa de patrones 3" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAC8GDAAAAQ==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJzt1GkzVWEcAPB7KVlCKUIUkRJtsrSIClmKNlvRYgnZtekrGHznfm/MNOaee84d03hzXvzmzDzznP/y/J9zkolEIhmLHaO9ZOr13UPrWWRzgpPkcIpc8singNNpYqbLt5PmnUKKKOYMZynhHOcppYwLlGcYO0p9FVRykSqqucRlaqjlCnXUh/QZ9Tz+rfsqDVzjOo3coIlmbnKL29wJmWM6QXvv0sI9WmmjnQ7u84CHPKIzJEcmszjwmC66ecJTntFDL308p5+BgFxB5xzlPg4yxAteMswIr3jNG97yjtEMe4tSzxjjTDDJez4wxTQf+cRnvhwhd9BsZphljnm+ssAiS3xjmRVWA2If3K39FDnC/hdrnutssMkW3/nBT37xm23+hPQS9buMxWKx/+kvpYIsdg==
+  </data>
+ </layer>
+ <layer name="Capa de Patrones 1" width="32" height="24">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAC8GDAAAAQ==
+  </data>
+ </layer>
+</map>

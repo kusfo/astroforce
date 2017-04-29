@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="11" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="introstage2tiles" tilewidth="8" tileheight="8">
+  <image source="introstage2tiles.png" width="64" height="64"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="32" height="11">
+  <data encoding="base64" compression="zlib">
+   eJzFjUELwjAMhdvBPAzmZSJMRJg39ViqA+nc//9Ve8dHSNfiJYePNi9fEu+c84YMCiO4ZHr/eCVX9iZwB6Ewr3k1buneAzzBCxx2bmlejbt3T9bHjJPzalz+f8BMdRD9M2URvGlGelHJNZd3/cBKva9wb5QlsNCM9JKSay7vakFj+PagM3xPxlyN2QD0uiIX
+  </data>
+ </layer>
+</map>
